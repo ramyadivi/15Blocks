@@ -1,0 +1,23 @@
+ .inActive {
+     width: 200px;
+     height: 100px;
+     background-color: pink;
+     border: 2px black;
+ }
+ 
+ .active {
+     width: 200px;
+     height: 100px;
+     background-color: #E6E6FA;
+     border: 2px black;
+ }
+ 
+ .divcls div {
+     display: inline-block;
+ }
+ .showMsg{
+    width:400px;
+    height:300px;
+    border:2px solid blue;
+    overflow: auto;
+ }
